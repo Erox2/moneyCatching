@@ -11,6 +11,7 @@ let appleImg;
 let bitcoin;
 let bakgrunn1;
 let gameOver;
+let test;
 
 //------------------------------------------- setup draw
 
